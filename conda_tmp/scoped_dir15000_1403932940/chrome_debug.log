@@ -1,0 +1,4 @@
+[1496:17076:0325/125508.274:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.199 (not a warning)
+[1496:17076:0325/125508.352:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[1496:17076:0325/125508.352:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[1496:17936:0325/125510.817:ERROR:persistent_memory_allocator.cc(847)] Corruption detected in shared-memory segment.

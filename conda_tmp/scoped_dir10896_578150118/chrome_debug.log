@@ -1,0 +1,29 @@
+[616:2756:0325/172205.197:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.199 (not a warning)
+[616:2756:0325/172205.270:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[616:2756:0325/172205.270:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[616:12980:0325/172209.896:ERROR:persistent_memory_allocator.cc(847)] Corruption detected in shared-memory segment.
+[616:15060:0325/172316.065:ERROR:cert_verify_proc_builtin.cc(702)] CertVerifyProcBuiltin for api.fund.eastmoney.com failed:
+----- Certificate i=0 (emailAddress=mars@doctorcom.com,CN=www.doctorcom.com,OU=2066,O=Dr.COM SSL,L=Guangzhou,ST=GD,C=CN) -----
+ERROR: No matching issuer found
+
+
+[616:15060:0325/172316.847:ERROR:cert_verify_proc_builtin.cc(702)] CertVerifyProcBuiltin for content-autofill.googleapis.com failed:
+----- Certificate i=0 (emailAddress=mars@doctorcom.com,CN=www.doctorcom.com,OU=2066,O=Dr.COM SSL,L=Guangzhou,ST=GD,C=CN) -----
+ERROR: No matching issuer found
+
+
+[616:15060:0325/172317.203:ERROR:cert_verify_proc_builtin.cc(702)] CertVerifyProcBuiltin for optimizationguide-pa.googleapis.com failed:
+----- Certificate i=0 (emailAddress=mars@doctorcom.com,CN=www.doctorcom.com,OU=2066,O=Dr.COM SSL,L=Guangzhou,ST=GD,C=CN) -----
+ERROR: No matching issuer found
+
+
+[616:15060:0325/172320.826:ERROR:cert_verify_proc_builtin.cc(702)] CertVerifyProcBuiltin for accounts.google.com failed:
+----- Certificate i=0 (emailAddress=mars@doctorcom.com,CN=www.doctorcom.com,OU=2066,O=Dr.COM SSL,L=Guangzhou,ST=GD,C=CN) -----
+ERROR: No matching issuer found
+
+
+[616:15060:0325/172324.815:ERROR:cert_verify_proc_builtin.cc(702)] CertVerifyProcBuiltin for update.googleapis.com failed:
+----- Certificate i=0 (emailAddress=mars@doctorcom.com,CN=www.doctorcom.com,OU=2066,O=Dr.COM SSL,L=Guangzhou,ST=GD,C=CN) -----
+ERROR: No matching issuer found
+
+

@@ -1,0 +1,14 @@
+2024-03-24 22:51:45.227|00008328|
+c:\build\aria-cpp-v1\clienttelemetry\.net\pal\winhttpclient\wininetrequest.cpp(410): void __cdecl WinInetRequest::onStatusChanged(void *,unsigned __int64,unsigned long,void *,unsigned long) WARNING: [000001F5C14D44E0] HttpQueryInfo(RAW_HEADERS) failed: 6
+2024-03-24 22:51:45.227|00008328|
+c:\build\aria-cpp-v1\clienttelemetry\.net\pal\winhttpclient\wininetrequest.cpp(445): void __cdecl WinInetRequest::onStatusChanged(void *,unsigned __int64,unsigned long,void *,unsigned long) ERROR  : [000001F5C14D44E0] connection failed.
+2024-03-24 22:51:45.227|00008328|
+c:\build\aria-cpp-v1\clienttelemetry\.net\pal\winhttpclient\wininetrequest.cpp(448): void __cdecl WinInetRequest::onStatusChanged(void *,unsigned __int64,unsigned long,void *,unsigned long) ERROR  : [000001F5C14D44E0] invoke onFailure handler...
+2024-03-24 22:51:45.235|00008328|
+c:\build\aria-cpp-v1\clienttelemetry\.net\pal\winhttpclient\wininethttpstack.cpp(59): auto __cdecl Microsoft::Applications::Telemetry::Windows::WinInetRequestWrapper::Open::<lambda_aa92ab7f289583074e521671e6837db0>::operator ()(class WinInetContext *) const WARNING: [000001F5C14D44D0] <WinInetRequest*>[000001F5C14D44E0] m_callback=000001F59EE3D030 OnFailure
+2024-03-24 22:51:45.235|00008328|
+c:\build\aria-cpp-v1\clienttelemetry\common\httpclientmanager.cpp(521): void __cdecl common::HttpClientManager::_HandleHttpResponse(class common::HcmRequest *,class Microsoft::Applications::Telemetry::PlatformAbstraction::IResponse *,enum Microsoft::Applications::Telemetry::PlatformAbstraction::HTTPSTACK_ERROR,class common::HcmRequestData *) WARNING: [000001F59EE3D030] HcmRequest aborted because HCM is being stopped!
+2024-03-24 22:51:45.236|00008328|
+c:\build\aria-cpp-v1\clienttelemetry\common\httpclientmanager.cpp(652): void __cdecl common::HttpClientManager::_HandleHttpResponse(class common::HcmRequest *,class Microsoft::Applications::Telemetry::PlatformAbstraction::IResponse *,enum Microsoft::Applications::Telemetry::PlatformAbstraction::HTTPSTACK_ERROR,class common::HcmRequestData *) WARNING: [000001F59EE3D030] HcmRequest aborted for HTTP send, size=1859, userData=000001F585490DB0, userDataTags=194626ba46434f9ab441dd7ebda2aa64-5f64bebb-ac28-4cc7-bd52-570c8fe077c9-7717, failedAttempts=1
+2024-03-24 22:51:45.236|00008328|
+c:\build\aria-cpp-v1\clienttelemetry\.net\pal\winhttpclient\wininetrequest.cpp(518): bool __cdecl WinInetRequest::close(void) WARNING: [000001F5C14D44E0] already closed.

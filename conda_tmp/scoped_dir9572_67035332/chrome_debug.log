@@ -1,0 +1,9 @@
+[2936:4396:0325/132419.940:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.199 (not a warning)
+[2936:4396:0325/132420.018:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[2936:4396:0325/132420.018:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[2936:2120:0325/132923.008:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[2936:2120:0325/132928.029:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[2936:2120:0325/132938.043:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[2936:2120:0325/132958.064:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[2936:4396:0325/133023.520:INFO:CONSOLE(6577)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (6577)
+[2936:4396:0325/133748.173:ERROR:device_event_log_impl.cc(222)] [13:37:48.173] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ÕÒ²»µ½ÔªËØ¡£ (0x490)

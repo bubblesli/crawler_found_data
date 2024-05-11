@@ -1,0 +1,8 @@
+[8624:1888:0327/011046.999:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.199 (not a warning)
+[8624:1888:0327/011047.090:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[8624:1888:0327/011047.090:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[8624:1888:0327/011048.384:INFO:CONSOLE(602)] "Uncaught TypeError: $(...).getElementsByTagName is not a function", source: https://fundf10.eastmoney.com/jjjz_001175.html (602)
+[8624:1888:0327/011048.402:INFO:CONSOLE(1)] "Uncaught TypeError: $(...).getElementsByTagName is not a function", source: https://j5.dfcfw.com/sc/js/web/f10_min_20210709.js (1)
+[8624:1888:0327/011048.524:INFO:CONSOLE(1)] "Uncaught TypeError: $(...).getElementsByTagName is not a function", source: https://j5.dfcfw.com/sc/js/web/f10_min_20210709.js (1)
+[8624:1888:0327/094756.048:ERROR:device_event_log_impl.cc(222)] [09:47:56.047] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[8624:1888:0327/094756.061:ERROR:device_event_log_impl.cc(222)] [09:47:56.060] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 没有可用的数据了。 (0x103)

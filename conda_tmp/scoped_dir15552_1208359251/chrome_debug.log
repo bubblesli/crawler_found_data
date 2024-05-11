@@ -1,0 +1,5 @@
+[11832:17776:0327/204546.037:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.199 (not a warning)
+[11832:17776:0327/204546.111:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[11832:17776:0327/204546.111:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[11832:17776:0327/204547.643:INFO:CONSOLE(1)] "Uncaught TypeError: $(...).getElementsByTagName is not a function", source: https://j5.dfcfw.com/sc/js/web/f10_min_20210709.js (1)
+[11832:17776:0327/204548.518:INFO:CONSOLE(657)] "Uncaught TypeError: $j(...).ttjjTooltip is not a function", source: https://fundf10.eastmoney.com/jjjz_001702.html (657)

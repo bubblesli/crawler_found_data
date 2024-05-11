@@ -1,0 +1,11 @@
+[13168:4912:0325/145649.085:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.199 (not a warning)
+[13168:4912:0325/145649.167:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[13168:4912:0325/145649.167:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[13168:16488:0325/145820.592:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[13168:16488:0325/145825.605:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[13168:16488:0325/145835.629:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[13168:16488:0325/145841.838:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[13168:16488:0325/145846.862:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[13168:4912:0325/145850.923:INFO:CONSOLE(6577)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (6577)
+[13168:18968:0325/145856.881:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[13168:16488:0325/145916.904:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
